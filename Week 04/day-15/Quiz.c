@@ -39,13 +39,13 @@ int main(){
 //  printf("%d\n", *(a + 1)); // Output: 20 (মানে a[1])
 // printf("%d\n", *(a + 4)); // Output: 50 (মানে a[4])
 
-int x,y,z;
-    x = 10, y = 20, z = 30;
-    int *p, *q;
-    p = &x;
-    q = &y;
-    *p = 40;
-    x = 50;
-    q = p;
-    printf("%d",*q);
+// int x,y,z;
+//     x = 10, y = 20, z = 30;
+//     int *p, *q;
+//     p = &x;
+//     q = &y;
+//     *p = 40;
+//     x = 50;
+//     q = p;
+//     printf("%d",*q);
 }
