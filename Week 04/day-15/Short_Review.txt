@@ -1,0 +1,4 @@
+1-Pointer in c
+2-Pointer and Array [malloc,calloc,free]
+3-Dynamic Array
+4-Pointer of Pointer
